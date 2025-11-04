@@ -1,0 +1,26 @@
+{
+  "name": "chat-desktop",
+  "version": "1.0.0",
+  "main": "scr/main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electronmon src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rafael-Manna/Chat-Desktop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rafael-Manna/Chat-Desktop/issues"
+  },
+  "homepage": "https://github.com/Rafael-Manna/Chat-Desktop#readme",
+  "description": "",
+  "dependencies": {
+    "electron": "^39.0.0",
+    "electronmon": "^2.0.4"
+  }
+}

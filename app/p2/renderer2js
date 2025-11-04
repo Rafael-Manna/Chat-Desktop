@@ -1,0 +1,4 @@
+function enviarMsg2(){
+ let msgenv = document.getElementById("msg2").value;
+  document.getElementById("msg2").innerHTML = `Mensagem enviada: ${msgenv} `;
+}
